@@ -14,6 +14,7 @@
   - 버튼: 0 부터 9까지의 숫자, 초기화, 지우기
   - 이외에 자유롭게 자신이 선보이고 싶은 기능, 있으면 좋겠다 싶은 기능 추가 (필수 1개): 최근 계산 기록, 키보드 모드
 <br/>
+
 - Blog post
   <https://dailyco.github.io/posts/calculator/>
 - Code
@@ -27,6 +28,7 @@
   - 부가기능:undo/redo, 지우기, 저장/불러오기
   - 이외에 자유롭게 자신이 선보이고 싶은 기능, 있으면 좋겠다 싶은 기능 추가: 텍스트 모드, 여러개 캔버스 사용 가능, 캔버스 삭제 기능
 <br/>
+
 - Blog post
   <https://dailyco.github.io/posts/draw_board/>
 - Code
@@ -42,6 +44,7 @@
   - 로그인 후 개인 정보 수정, 탈퇴
   - 이외에 자유롭게 자신이 선보이고 싶은 기능, 있으면 좋겠다 싶은 기능 추가: 개인 정보 조회, 로그아웃 기능, 성별 조회 및 수정 기능
 <br/>
+
 - Blog post
   <https://dailyco.github.io/posts/database/>
 - Code
@@ -55,6 +58,7 @@
   - 이미지 파일 읽어오기, 이미지 흑백 반전, 이미지 엣지추출, 밝기 조절, 돋보기 中 최소 4가지 이상 필수 선택
   - 이외에 자유롭게 자신이 선보이고 싶은 기능, 있으면 좋겠다 싶은 기능 추가: 사진의 해당 마우스 위치의 RGB 값 표기, undo/redo 기능, 이미지 모자이크, 이미지 초기화
 <br/>
+
 - Blog post
   <https://dailyco.github.io/posts/image_processing/>
 - Code
@@ -68,6 +72,7 @@
   - 두 명의 플레이어가 육목 게임이 가능하도록 구현
   - 이외에는 자유롭게 자신이 선보이고 싶은 기능, 있으면 좋겠다 싶은 기능 추가: 타이머 기능, 플레이어의 이름 및 캐릭터 선택 기능, 배경 노래 삽입
 <br/>
+
 - Blog post
   <https://dailyco.github.io/posts/connect6/>
 - Code
@@ -79,6 +84,7 @@
   - 서로 다른 컴퓨터에서 육목 게임이 가능하도록 네트워크를 연결
   - 이외에는 자유롭게 자신이 선보이고 싶은 기능, 있으면 좋겠다 싶은 기능 추가: 타이머 기능, 플레이어의 이름 및 캐릭터 선택 기능, 배경 노래 삽입
 <br/>
+
 - Blog post
   <https://dailyco.github.io/posts/network_connect6/><br/>
 - Code

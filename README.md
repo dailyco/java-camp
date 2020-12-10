@@ -15,10 +15,8 @@
   - 이외에 자유롭게 자신이 선보이고 싶은 기능, 있으면 좋겠다 싶은 기능 추가 (필수 1개): 최근 계산 기록, 키보드 모드
 <br/>
 
-- Blog post
-  <https://dailyco.github.io/posts/calculator/>
-- Code
-  <https://github.com/dailyco/java-camp/tree/main/calculator>
+- Blog post: <https://dailyco.github.io/posts/calculator/>
+- Code: <https://github.com/dailyco/java-camp/tree/main/calculator>
 <br/>
 
 ### 2. 그림판 구현
@@ -29,12 +27,9 @@
   - 이외에 자유롭게 자신이 선보이고 싶은 기능, 있으면 좋겠다 싶은 기능 추가: 텍스트 모드, 여러개 캔버스 사용 가능, 캔버스 삭제 기능
 <br/>
 
-- Blog post
-  <https://dailyco.github.io/posts/draw_board/>
-- Code
-  <https://github.com/dailyco/java-camp/tree/main/draw-board>
-- Report
-  <https://drive.google.com/file/d/15mE3ce3AQZ2JYinjSA9cl54PlF53mcJc/view?usp=sharing>
+- Blog post: <https://dailyco.github.io/posts/draw_board/>
+- Code: <https://github.com/dailyco/java-camp/tree/main/draw-board>
+- Report: <https://drive.google.com/file/d/15mE3ce3AQZ2JYinjSA9cl54PlF53mcJc/view?usp=sharing>
 <br/>
 
 ### 3. 데이터베이스
@@ -45,12 +40,9 @@
   - 이외에 자유롭게 자신이 선보이고 싶은 기능, 있으면 좋겠다 싶은 기능 추가: 개인 정보 조회, 로그아웃 기능, 성별 조회 및 수정 기능
 <br/>
 
-- Blog post
-  <https://dailyco.github.io/posts/database/>
-- Code
-  <https://github.com/dailyco/java-camp/tree/main/database>
-- Report
-  <https://drive.google.com/file/d/1jKqC_JaYrER1g6qOag4Q68FpDpJwpHKO/view?usp=sharing>
+- Blog post: <https://dailyco.github.io/posts/database/>
+- Code: <https://github.com/dailyco/java-camp/tree/main/database>
+- Report: <https://drive.google.com/file/d/1jKqC_JaYrER1g6qOag4Q68FpDpJwpHKO/view?usp=sharing>
 <br/>
 
 ### 4. 이미지 프로세싱
@@ -59,12 +51,9 @@
   - 이외에 자유롭게 자신이 선보이고 싶은 기능, 있으면 좋겠다 싶은 기능 추가: 사진의 해당 마우스 위치의 RGB 값 표기, undo/redo 기능, 이미지 모자이크, 이미지 초기화
 <br/>
 
-- Blog post
-  <https://dailyco.github.io/posts/image_processing/>
-- Code
-  <https://github.com/dailyco/java-camp/tree/main/image-processing>
-- Report
-  <https://drive.google.com/file/d/1UzaaQ9yTvtG25G2l08lBilVSrMqooShG/view?usp=sharing>
+- Blog post: <https://dailyco.github.io/posts/image_processing/>
+- Code: <https://github.com/dailyco/java-camp/tree/main/image-processing>
+- Report: <https://drive.google.com/file/d/1UzaaQ9yTvtG25G2l08lBilVSrMqooShG/view?usp=sharing>
 <br/>
 
 ### 5. 육목 구현
@@ -73,10 +62,8 @@
   - 이외에는 자유롭게 자신이 선보이고 싶은 기능, 있으면 좋겠다 싶은 기능 추가: 타이머 기능, 플레이어의 이름 및 캐릭터 선택 기능, 배경 노래 삽입
 <br/>
 
-- Blog post
-  <https://dailyco.github.io/posts/connect6/>
-- Code
-  <https://github.com/dailyco/java-camp/tree/main/connect6>
+- Blog post: <https://dailyco.github.io/posts/connect6/>
+- Code: <https://github.com/dailyco/java-camp/tree/main/connect6>
 <br/>
 
 ### 6. 육목 네트워크 적용
@@ -85,10 +72,7 @@
   - 이외에는 자유롭게 자신이 선보이고 싶은 기능, 있으면 좋겠다 싶은 기능 추가: 타이머 기능, 플레이어의 이름 및 캐릭터 선택 기능, 배경 노래 삽입
 <br/>
 
-- Blog post
-  <https://dailyco.github.io/posts/network_connect6/><br/>
-- Code
-  <https://github.com/dailyco/java-camp/tree/main/image-processing>
-- Report
-  <https://drive.google.com/file/d/1UzaaQ9yTvtG25G2l08lBilVSrMqooShG/view?usp=sharing>
+- Blog post: <https://dailyco.github.io/posts/network_connect6/><br/>
+- Code: <https://github.com/dailyco/java-camp/tree/main/image-processing>
+- Report: <https://drive.google.com/file/d/1UzaaQ9yTvtG25G2l08lBilVSrMqooShG/view?usp=sharing>
 <br/>
